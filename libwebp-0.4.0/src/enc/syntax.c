@@ -17,6 +17,7 @@
 #include "../webp/format_constants.h"  // RIFF constants
 #include "../webp/mux_types.h"         // ALPHA_FLAG
 #include "./vp8enci.h"
+#include <webp_stdlib.h>
 
 //------------------------------------------------------------------------------
 // Helper functions

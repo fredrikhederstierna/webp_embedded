@@ -16,6 +16,7 @@
 #include <string.h>   // for memcpy()
 #include <stdlib.h>
 #include "./bit_writer.h"
+#include <webp_stdlib.h>
 
 //------------------------------------------------------------------------------
 // VP8BitWriter

@@ -24,6 +24,7 @@
 #include "./lossless.h"
 #include "../dec/vp8li.h"
 #include "./yuv.h"
+#include <webp_stdlib.h>
 
 #define MAX_DIFF_COST (1e30f)
 

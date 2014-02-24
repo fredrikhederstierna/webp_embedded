@@ -22,6 +22,7 @@
 
 #include "./cost.h"
 #include "./vp8enci.h"
+#include <webp_stdlib.h>
 
 #if !defined(DISABLE_TOKEN_BUFFER)
 

@@ -15,6 +15,7 @@
 #include "./yuv.h"
 
 #include <assert.h>
+#include <webp_stdlib.h>
 
 //------------------------------------------------------------------------------
 // Fancy upsampler

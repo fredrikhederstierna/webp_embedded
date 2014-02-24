@@ -17,6 +17,7 @@
 #include "./vp8li.h"
 #include "./webpi.h"
 #include "../webp/mux_types.h"  // ALPHA_FLAG
+#include <webp_stdlib.h>
 
 //------------------------------------------------------------------------------
 // RIFF layout is:

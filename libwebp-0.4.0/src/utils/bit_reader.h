@@ -21,6 +21,11 @@
 #endif
 #include "../webp/types.h"
 
+#ifdef assert
+#undef assert
+#endif
+#define assert(cond)
+
 #ifdef __cplusplus
 extern "C" {
 #endif

@@ -14,6 +14,7 @@
 #include <assert.h>
 #include <string.h>   // for memset()
 #include "./thread.h"
+#include <webp_stdlib.h>
 
 #ifdef WEBP_USE_THREAD
 

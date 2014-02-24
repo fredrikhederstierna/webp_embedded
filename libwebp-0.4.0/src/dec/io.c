@@ -17,6 +17,7 @@
 #include "./webpi.h"
 #include "../dsp/dsp.h"
 #include "../dsp/yuv.h"
+#include <webp_stdlib.h>
 
 //------------------------------------------------------------------------------
 // Main YUV<->RGB conversion functions

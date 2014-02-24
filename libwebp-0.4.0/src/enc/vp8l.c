@@ -24,6 +24,7 @@
 #include "../utils/huffman_encode.h"
 #include "../utils/utils.h"
 #include "../webp/format_constants.h"
+#include <webp_stdlib.h>
 
 #define PALETTE_KEY_RIGHT_SHIFT   22  // Key for 1K buffer.
 #define MAX_HUFF_IMAGE_SIZE       (16 * 1024 * 1024)

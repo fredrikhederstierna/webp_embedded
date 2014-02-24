@@ -43,6 +43,7 @@
 //           memory allocation for the compressed data fails.
 
 #include "../enc/vp8li.h"
+#include <webp_stdlib.h>
 
 static int EncodeLossless(const uint8_t* const data, int width, int height,
                           int effort_level,  // in [0..6] range

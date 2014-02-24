@@ -17,6 +17,7 @@
 #include "./huffman.h"
 #include "../utils/utils.h"
 #include "../webp/format_constants.h"
+#include <webp_stdlib.h>
 
 // Uncomment the following to use look-up table for ReverseBits()
 // (might be faster on some platform)

@@ -13,6 +13,7 @@
 
 #include <assert.h>
 #include "./vp8enci.h"
+#include <webp_stdlib.h>
 
 // This table gives, for a given sharpness, the filtering strength to be
 // used (at least) in order to filter a given edge step delta.

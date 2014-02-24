@@ -19,6 +19,12 @@
 
 #include "../webp/types.h"
 
+// disable asserts
+#ifdef assert
+#undef assert
+#endif
+#define assert(cond)
+
 #ifdef __cplusplus
 extern "C" {
 #endif

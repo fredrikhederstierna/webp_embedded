@@ -17,6 +17,7 @@
 
 #include "./vp8enci.h"
 #include "./cost.h"
+#include <webp_stdlib.h>
 
 #define DO_TRELLIS_I4  1
 #define DO_TRELLIS_I16 1   // not a huge gain, but ok at low bitrate.
@@ -49,6 +50,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <webp_stdlib.h>
 
 static void PrintBlockInfo(const VP8EncIterator* const it,
                            const VP8ModeScore* const rd) {

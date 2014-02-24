@@ -15,6 +15,7 @@
 #include <stdlib.h>
 #include "./color_cache.h"
 #include "../utils/utils.h"
+#include <webp_stdlib.h>
 
 //------------------------------------------------------------------------------
 // VP8LColorCache.

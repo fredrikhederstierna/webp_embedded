@@ -18,6 +18,7 @@
 #include "./vp8li.h"
 #include "./webpi.h"
 #include "../utils/bit_reader.h"
+#include <webp_stdlib.h>
 
 //------------------------------------------------------------------------------
 

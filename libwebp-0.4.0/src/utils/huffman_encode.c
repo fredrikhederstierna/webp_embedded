@@ -17,6 +17,7 @@
 #include "./huffman_encode.h"
 #include "../utils/utils.h"
 #include "../webp/format_constants.h"
+#include <webp_stdlib.h>
 
 // -----------------------------------------------------------------------------
 // Util function to optimize the symbol map for RLE coding

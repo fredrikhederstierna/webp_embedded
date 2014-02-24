@@ -14,6 +14,7 @@
 #include <string.h>
 
 #include "./vp8enci.h"
+#include <webp_stdlib.h>
 
 //------------------------------------------------------------------------------
 // VP8Iterator

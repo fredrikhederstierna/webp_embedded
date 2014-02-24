@@ -22,6 +22,7 @@
 #include "../utils/utils.h"
 #include "../dsp/dsp.h"
 #include "../dsp/yuv.h"
+#include <webp_stdlib.h>
 
 // Uncomment to disable gamma-compression during RGB->U/V averaging
 #define USE_GAMMA_COMPRESSION

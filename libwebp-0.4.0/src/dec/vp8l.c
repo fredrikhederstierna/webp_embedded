@@ -21,6 +21,7 @@
 #include "../utils/alpha_processing.h"
 #include "../utils/huffman.h"
 #include "../utils/utils.h"
+#include <webp_stdlib.h>
 
 #define NUM_ARGB_CACHE_ROWS          16
 

@@ -18,6 +18,12 @@
 #include "../webp/types.h"
 #include "../webp/format_constants.h"
 
+// disable asserts
+#ifdef assert
+#undef assert
+#endif
+#define assert(cond)
+
 #ifdef __cplusplus
 extern "C" {
 #endif

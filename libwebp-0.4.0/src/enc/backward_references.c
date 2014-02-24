@@ -19,6 +19,7 @@
 #include "../dsp/lossless.h"
 #include "../utils/color_cache.h"
 #include "../utils/utils.h"
+#include <webp_stdlib.h>
 
 #define VALUES_IN_BYTE 256
 

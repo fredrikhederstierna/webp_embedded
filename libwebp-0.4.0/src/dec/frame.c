@@ -14,6 +14,7 @@
 #include <stdlib.h>
 #include "./vp8i.h"
 #include "../utils/utils.h"
+#include <webp_stdlib.h>
 
 #define ALIGN_MASK (32 - 1)
 

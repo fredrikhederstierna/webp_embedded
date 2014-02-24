@@ -19,6 +19,7 @@
 #include "./vp8enci.h"
 #include "./vp8li.h"
 #include "../utils/utils.h"
+#include <webp_stdlib.h>
 
 // #define PRINT_MEMORY_INFO
 

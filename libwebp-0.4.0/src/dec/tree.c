@@ -12,6 +12,7 @@
 // Author: Skal (pascal.massimino@gmail.com)
 
 #include "vp8i.h"
+#include <webp_stdlib.h>
 
 #define USE_GENERIC_TREE
 

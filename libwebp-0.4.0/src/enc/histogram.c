@@ -20,6 +20,7 @@
 #include "./histogram.h"
 #include "../dsp/lossless.h"
 #include "../utils/utils.h"
+#include <webp_stdlib.h>
 
 static void HistogramClear(VP8LHistogram* const p) {
   memset(p->literal_, 0, sizeof(p->literal_));

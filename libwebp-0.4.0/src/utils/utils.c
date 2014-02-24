@@ -13,6 +13,7 @@
 
 #include <stdlib.h>
 #include "./utils.h"
+#include <webp_stdlib.h>
 
 //------------------------------------------------------------------------------
 // Checked memory allocation
